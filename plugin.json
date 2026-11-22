@@ -1,0 +1,36 @@
+{
+  "id": "neodex.themeterminal",
+  "name": "Thème Terminal",
+  "version": "1.0.0",
+  "author": "NDesumeur",
+  "icon": "icon.png",
+  "neobase": ">=4.1.0",
+  "neodex": ">=3.3.9",
+  "type": "theme",
+  "compatibility": [
+    "windows",
+    "linux",
+    "android"
+  ],
+  "mobile": true,
+  "system": false,
+  "dependencies": {},
+  "sdk": "2.1.0",
+  "permissions": [],
+  "description": "Écran à phosphore vert : une seule police de console, du texte qui luit, un balayage marqué. Un thème de couleurs et de cadres pour NeoDex.",
+  "category": "Thèmes",
+  "themes": [
+    {
+      "id": "terminal",
+      "name": "Terminal",
+      "style": "terminal",
+      "hue": 135,
+      "sat": 45,
+      "accent": "#33ff66",
+      "light": "#b4ffc8",
+      "third": "#ffd23f",
+      "lift": 0.6,
+      "about": "Écran à phosphore vert : une seule police de console, du texte qui luit, un balayage marqué."
+    }
+  ]
+}
