@@ -1,0 +1,9 @@
+{
+  "pluginId": "neodex.themeterminal",
+  "repo": "NDesumeur/neodex-plugin-theme-terminal",
+  "version": "1.0.0",
+  "sha256": "eb69541a26f86d89a4c0d72f40d483dc18cfadf465ab6b154f54e51a4a4fa41c",
+  "approvedAt": "2026-11-22T19:05:25.555Z",
+  "neobase": ">=4.1.0",
+  "signature": "ebEgd1Y+F/+WlUaeyQssDJj7gv4kVLFjAdV2btP/x9ttNCkEvNaw02ru3Q6LuXcOFO4+IlawaRUqrkEl7FKxBg=="
+}
